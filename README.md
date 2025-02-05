@@ -14,3 +14,4 @@ Deploy the algorithm in an app - Finally, I will use the best model to create a 
 
 # The demo application can be seen via the Googlecolab Link!!!
 https://drive.google.com/file/d/1W9SEbZnAHO-sR-ifBs0KhFQUbuA_vLCS/view?usp=sharing
+** Open with Colaboratory cloud workspace **
