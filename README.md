@@ -13,3 +13,4 @@ Create a CNN to Classify Landmarks (using Transfer Learning) - Investigate diffe
 Deploy the algorithm in an app - Finally, I will use the best model to create a simple app for others to be able to use my model to find the most likely landmarks depicted in an image. 
 
 # The demo application can be seen via the Googlecolab Link!!!
+https://drive.google.com/file/d/1W9SEbZnAHO-sR-ifBs0KhFQUbuA_vLCS/view?usp=sharing
